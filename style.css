@@ -1,1 +1,25 @@
-/* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@300&family=Nunito+Sans&display=swap');
+
+
+
+body {
+    background-color: teal;
+    padding: 0 20px 20px;
+}
+
+
+
+H3 {
+    padding-top: 100px;
+    font-family: 'Halant', serif;
+    color: white;
+    font-feature-settings: "kern", "liga", "pnum";
+    font-size: 1em;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: white;
+    text-align: center;
